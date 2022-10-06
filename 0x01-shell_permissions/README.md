@@ -1,0 +1,1 @@
+0- The script change current user to betty
