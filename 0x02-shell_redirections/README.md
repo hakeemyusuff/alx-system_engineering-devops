@@ -9,4 +9,5 @@
 8. The script write the output of ls -la into the file ls_cwd_content
 9. The script duplicate the last line of a file into the same file
 10. It removes all the .js files in the current directory
-11. Ti count the number of directories and sub-diretories
+11. It count the number of directories and sub-diretories
+12. The scriopt displays the 10 newest files sorted from the newest to the oldest
