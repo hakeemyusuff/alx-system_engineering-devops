@@ -4,3 +4,4 @@
 3. This script display the content of two files at once
 4. It displays the last 10 lines of file /etc/passwd
 5. It displays the first 10 lines of file /etc/passwd
+6. The scripts display the third line of the file iacta
