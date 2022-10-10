@@ -14,3 +14,4 @@
 13. It list words as input and prints only words that appear exactly once
 14. It searches inside the file /etc/passwd and look for the word "root"
 15. It display the number of lines that contain "bin" in the file /etc/passwd
+16. The script shows three line after matching the pattern root
