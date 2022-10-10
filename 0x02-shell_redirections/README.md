@@ -11,4 +11,5 @@
 10. It removes all the .js files in the current directory
 11. It count the number of directories and sub-diretories
 12. The scriopt displays the 10 newest files sorted from the newest to the oldest
-13. It list words as input and prints only words that appear exactly once 
+13. It list words as input and prints only words that appear exactly once
+14. It searches inside the file /etc/passwd and look for the word "root"
