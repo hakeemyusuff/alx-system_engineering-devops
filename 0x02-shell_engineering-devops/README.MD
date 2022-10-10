@@ -1,0 +1,1 @@
+0. The script prints "Hello, World"
