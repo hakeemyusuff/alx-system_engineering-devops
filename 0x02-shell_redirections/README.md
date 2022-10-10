@@ -16,3 +16,4 @@
 15. It display the number of lines that contain "bin" in the file /etc/passwd
 16. The script shows three line after matching the pattern root
 17. It displays all the lines that does not contain "bin"
+18/ It displays only the lines that start with letter, Capital letter inclusive
