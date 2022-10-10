@@ -8,3 +8,4 @@
 7. The script creates a file named exactly \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing the text Best School
 8. The script write the output of ls -la into the file ls_cwd_content
 9. The script duplicate the last line of a file into the same file
+10. It removes all the .js files in the current directory
