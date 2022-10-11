@@ -21,3 +21,4 @@
 20. The script removes all letters c and C from input
 21. The script give output of the given input
 22. It displays all users and their home directories and sorted by users
+23. The script finds all empty files and directories in the current directory and all sub directories
