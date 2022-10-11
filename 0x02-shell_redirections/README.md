@@ -19,3 +19,4 @@
 18. It displays only the lines that start with letter, Capital letter inclusive
 19. It replace all character A and c from input with Z and e
 20. The script removes all letters c and C from input
+21. The script give output of the given input
