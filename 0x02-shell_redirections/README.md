@@ -20,3 +20,4 @@
 19. It replace all character A and c from input with Z and e
 20. The script removes all letters c and C from input
 21. The script give output of the given input
+22. It displays all users and their home directories and sorted by users
