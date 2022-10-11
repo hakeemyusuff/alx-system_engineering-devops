@@ -22,3 +22,4 @@
 21. The script give output of the given input
 22. It displays all users and their home directories and sorted by users
 23. The script finds all empty files and directories in the current directory and all sub directories
+24. It list all the files with a .gif extension in the current directory and all its sub-directories
