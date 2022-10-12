@@ -9,3 +9,5 @@
 8. The scrip prints the result of addition of 128 with value stored in the environment variable
 9. It print the result of POWER  and DIVIDE, followed by a new line
 10. It displays the result of BREATH to the LOVE
+11. It convert binary to decimal
+12. The script prints all possible combinations of two letters except oo
