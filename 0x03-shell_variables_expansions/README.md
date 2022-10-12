@@ -6,3 +6,4 @@
 6. List both local variables and environment variables and function
 7. The script createa a new local variable
 8. It create a new global variable
+9. The scrip prints the result of addition of 128 with value stored in the environment variable 
