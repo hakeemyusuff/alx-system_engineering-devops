@@ -11,4 +11,5 @@
 10. It displays the result of BREATH to the LOVE
 11. It convert binary to decimal
 12. The script prints all possible combinations of two letters except oo
-13. The prints a number with two decimal places, followed by a new line
+13. The script prints a number with two decimal places, followed by a new line
+14. It convert a number from base 10 to 16
